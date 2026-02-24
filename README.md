@@ -40,5 +40,7 @@ Designed with **Application Lifecycle Management (ALM)** in mind, utilizing Azur
 *Caption: Proof of strict grounding where the agent refuses to hallucinate and cites simulation internal standards.*
 
 ---
+Note: All knowledge sources used are based on publicly available information and simulation data for demonstration purposes.
+
 **Maintained by [Thomas Waas](https://github.com/tmwaas)**
 
