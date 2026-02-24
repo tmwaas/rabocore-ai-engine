@@ -9,7 +9,7 @@
 
 ## 🚀 Key Features & Implementation
 ### 1. Strict Grounding (RAG)
-Ensures the agent only provides information based on verified knowledge sources (Internal Rabobank standards) to prevent hallucinations.
+Ensures the agent only provides information based on verified knowledge sources (Simulation Rabobank standards) to prevent hallucinations.
 
 ### 2. Enterprise Governance & Guardrails
 Implemented safety filters to handle PII/DLP protection and maintain professional out-of-scope handling.
@@ -37,7 +37,7 @@ Designed with **Application Lifecycle Management (ALM)** in mind, utilizing Azur
 3. **Grounding Accuracy**
 
 ![Grounding Demo](images/grounding_accuracy_example.png)
-*Caption: Proof of strict grounding where the agent refuses to hallucinate and cites internal standards.*
+*Caption: Proof of strict grounding where the agent refuses to hallucinate and cites simulation internal standards.*
 
 ---
 **Maintained by [Thomas Waas](https://github.com/tmwaas)**
