@@ -6,7 +6,6 @@
 
 ## 📌 Project Overview
 **RaboCore AI Engine** is a declarative agent built using **Microsoft Copilot Studio**, designed specifically for regulated banking environments. Developed during the **Microsoft Agent-a-thon (2026)**, this project demonstrates how to bridge the gap between Generative AI capabilities and enterprise-grade governance.
-![RaboCore Architecture and Interface](images/RaboCore_Overview.png)
 
 ## 🚀 Key Features & Implementation
 ### 1. Strict Grounding (RAG)
@@ -26,17 +25,20 @@ Designed with **Application Lifecycle Management (ALM)** in mind, utilizing Azur
 
 ## 📸 Demo Screenshots
 1. **Architecture & Governance Overview**
+
 ![RaboCore Overview](images/RaboCore_Overview.png)
 *Caption: The configuration backend showing verified knowledge sources and safety instructions.*
 
 2. **Agent Reasoning (ALM Workflow)**
+
 ![Reasoning Demo](images/agent_reasoning_example.png)
 *Caption: RaboCore demonstrating multi-step reasoning for an ALM-ready deployment plan.*
 
 3. **Grounding Accuracy**
+
 ![Grounding Demo](images/grounding_accuracy_example.png)
 *Caption: Proof of strict grounding where the agent refuses to hallucinate and cites internal standards.*
 
 ---
 **Maintained by [Thomas Waas](https://github.com/tmwaas)**
-*DevOps & Agentic AI Engineer*
+
